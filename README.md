@@ -1,2 +1,2 @@
 # image-gallery
-[Demo](ttps://maitreyasahu.github.io/camera/)
+[Demo](https://maitreyasahu.github.io/camera/)
